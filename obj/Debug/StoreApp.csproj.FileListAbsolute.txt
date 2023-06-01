@@ -1,0 +1,79 @@
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\bin\Debug\StoreApp.exe.config
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\bin\Debug\StoreApp.exe
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\bin\Debug\StoreApp.pdb
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\bin\Debug\Guna.UI2.dll
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.csprojAssemblyReference.cache
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.Form1.resources
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.Properties.Resources.resources
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.GenerateResource.cache
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CopyComplete
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.exe
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.pdb
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.Dashboard.resources
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_Welcome.resources
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_AdminsBase.resources
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_ClientsBase.resources
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_OrdersBase.resources
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_BillsBase.resources
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_NewOrder.resources
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_ItemsBase.resources
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_PrintOrder.resources
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_SuppliersBase.resources
+D:\Универ 2 курс\БД\КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_SuppliersEdit.resources
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.csprojAssemblyReference.cache
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllSpices.resources
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_AdminsBase.resources
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_BillsBase.resources
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_ClientsBase.resources
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_ItemsBase.resources
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_NewOrder.resources
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_OrdersBase.resources
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_PrintOrder.resources
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_SuppliersBase.resources
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_SuppliersEdit.resources
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_Welcome.resources
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.Dashboard.resources
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.Form1.resources
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.Properties.Resources.resources
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.GenerateResource.cache
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.exe
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.pdb
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\bin\Debug\StoreApp.exe.config
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\bin\Debug\StoreApp.exe
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\bin\Debug\StoreApp.pdb
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\bin\Debug\Guna.UI2.dll
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CopyComplete
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_PrintItems.resources
+D:\Универ 2 курс\БД\2 КУРСОВАЯ\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_Statistics.resources
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\bin\Debug\StoreApp.exe.config
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\bin\Debug\StoreApp.exe
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\bin\Debug\StoreApp.pdb
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\bin\Debug\Guna.UI2.dll
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.AssemblyReference.cache
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.SuggestedBindingRedirects.cache
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.AllSpices.resources
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_AdminsBase.resources
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_BillsBase.resources
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_ClientsBase.resources
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_ItemsBase.resources
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_NewOrder.resources
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_OrdersBase.resources
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_PrintItems.resources
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_PrintOrder.resources
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_Statistics.resources
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_SuppliersBase.resources
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_SuppliersEdit.resources
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.AllUserControl.UC_Welcome.resources
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.Dashboard.resources
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.Form1.resources
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.Properties.Resources.resources
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.GenerateResource.cache
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CoreCompileInputs.cache
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.csproj.CopyComplete
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.exe
+D:\все года универ\Универ 2 курс\3 семестр\БД\2 ПРОГРАММА\StoreApp\StoreApp\obj\Debug\StoreApp.pdb
